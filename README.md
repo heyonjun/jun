@@ -13,11 +13,11 @@
 
 
 <hr/> 큐리오시티의 정의, 발사일/착륙일, 목적, 활동, 크기, 동력원, 장비, 무게등의 설명이 있습니다.
-[link keyword][id]
+
 
 [id]: URL "Optional Title here"
 #go to
-Link: [nasa][nasalink]
+ [nasa][nasalink]
 
 [nasalink]: https://nasa.gov
 
