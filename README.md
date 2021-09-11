@@ -17,7 +17,7 @@
 
 [id]: URL "Optional Title here"
  
-go to [nasa][nasalink]
+#go to [nasa][nasalink]
 
 [nasalink]: https://www.nasa.gov "Go nasa"
 
