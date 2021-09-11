@@ -16,10 +16,9 @@
 [link keyword][id]
 
 [id]: URL "Optional Title here"
+#go to
+Link: [nasa][nasalink]
 
-// code
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com 
+[nasalink]: https://nasa.gov
 
 
